@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <time.h>
+#define RAND_MAX 1000
 
 using namespace std;
 
